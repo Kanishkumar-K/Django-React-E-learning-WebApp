@@ -1,0 +1,75 @@
+.page-container {
+  width:1390px;
+  margin: 0 auto;
+  padding: 20px;
+  padding-left: 170px;
+  padding-right: 150px;
+  margin-top: 1200px;
+  margin-left: -390px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.component-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.component-list {
+  width: 200px; /* Fixed width for component list */
+  display: flex;
+  flex-direction: column;
+}
+
+.img1{
+  margin-left: 200px;
+  width:660px;
+  height:370px;
+
+}
+
+.component-name {
+  padding: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-family: "Arial, Helvetica, sans-serif";
+}
+
+.component-name:hover {
+  background-color: #7adf40;
+  border:2px solid rgb(71, 71, 71);
+}
+
+.component-name.active {
+  background-color: #7adf40;
+}
+
+.component-content {
+  flex: 1; /* Take remaining space */
+  margin-left: 60px; /* Add some space between list and content */
+  font-family: "Arial, Helvetica, sans-serif";
+
+}
+
+.content-wrapper {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.component-content h3 {
+  margin-top: 0;
+}
+
+.component-name {
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+}
