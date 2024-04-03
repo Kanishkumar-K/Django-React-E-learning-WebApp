@@ -1,4 +1,6 @@
+Screenshots:
 
+API Endpoints:
 ![Screenshot 2024-03-30 202410](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/5e6a0605-ec4a-479a-b272-ff63f29cffae)
 
 ![Screenshot 2024-03-31 134041](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/e2bade1d-7b10-478d-90ce-0c78f7490bbf)
