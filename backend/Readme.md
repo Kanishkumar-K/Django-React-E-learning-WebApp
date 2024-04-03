@@ -10,7 +10,13 @@ API Endpoints:
 
 ![Screenshot 2024-03-30 195115](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/711e6b9d-f663-451f-8407-3f363a45422b)
 
+
+POSTMAN API TESTING:
+
 ![Screenshot 2024-03-30 195325](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/feb9ba87-5583-4032-995d-c8cace8fc5a8)
+
+![Screenshot 2024-03-31 134234](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/5af9c232-0251-4bfa-8e00-7c3f3aa2e2f0)
+
 
 DB:
 
