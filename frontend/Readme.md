@@ -4,6 +4,8 @@ Sign Up and Login:
 
 ![Screenshot 2024-04-02 080132](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/f78a6f16-860a-44fc-a96b-70734e034435)
 
+![Screenshot 2024-04-02 203038](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/0a32b0f2-ff15-4cf1-84d5-5f0abf14227b)
+
 User Dashboard:
 
 ![Screenshot 2024-03-30 201640](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/5d26cbb1-d12b-4a15-877a-3fe8293da57a)
@@ -33,6 +35,13 @@ Courses:
 ![Screenshot 2024-03-31 134555](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/eb624db0-a30b-4ad7-86b8-c93b8eab4a24)
 
 ![Screenshot 2024-03-30 202754](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/04ef705f-5c9b-46bc-95d9-99184d6c5be9)
+
+Enrol and Payment:
+
+![Screenshot 2024-03-30 190403](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/ac22dc5e-fd3f-46de-86ba-602f528b208e)
+
+![Screenshot 2024-03-30 190433](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/d64e6777-9dd7-43be-9120-757bd8cdaaa1)
+
 
 Admin Page:
 
