@@ -10,9 +10,9 @@ API Endpoints:
 
 ![Screenshot 2024-03-30 195115](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/711e6b9d-f663-451f-8407-3f363a45422b)
 
-![Screenshot 2024-03-31 134135](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/688bd058-40f0-489f-90de-fe8b9c367c97)
-
 ![Screenshot 2024-03-30 195325](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/feb9ba87-5583-4032-995d-c8cace8fc5a8)
+
+DB:
 
 ![Screenshot 2024-03-30 202511](https://github.com/Kanishkumar-K/E-Learning-Platform/assets/76395721/6f097420-56b4-4868-b1c3-3d4a01757949)
 
